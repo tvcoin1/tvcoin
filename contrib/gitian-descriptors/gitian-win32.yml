@@ -13,7 +13,7 @@ packages:
 - "faketime"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/tvcoin-project/tvcoin.git"
+- "url": "https://github.com/tvcoin1/tvcoin.git"
   "dir": "tvcoin"
 files:
 - "qt-win32-4.8.5-gitian-r8.zip"
